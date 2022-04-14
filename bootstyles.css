@@ -1,0 +1,21 @@
+.header{
+    text-align: center;
+    color: darkgreen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.background{
+    background-color: whitesmoke;
+}
+.footer{
+    text-align: center;
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+.title{
+    text-align: left;
+}
+.body{
+    height: 30%;
+    width: 40%;
+}

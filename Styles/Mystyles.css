@@ -1,0 +1,29 @@
+.grace{
+    color: forestgreen;
+}
+.indexlink{
+    font-size: 15px;
+}
+.harker{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.leftside{
+    font-size: 15px;
+    text-align: left;
+    color: blue;
+}
+.scl{
+    color: black;
+    font-size: 15px;
+}
+.resume{
+    font-family: 'Times New Roman', Times, serif;
+}
+.title{
+    color: darkgreen;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.picture{
+    text-align: center;
+}
